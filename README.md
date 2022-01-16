@@ -8,4 +8,4 @@
     </ul>
 </div><br><br>
 
-<div align="center">Desafio back-end do módulo 02 do programa de formação em desenvolvimento fullstack da Cubos Academy em parceria com o iFood.</div>
+<div>Desafio back-end do módulo 02 do programa de formação em desenvolvimento fullstack da Cubos Academy em parceria com o iFood.</div>
